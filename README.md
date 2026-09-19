@@ -1,44 +1,49 @@
 # Hi, I'm ALEJO 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Software+Developer;Software+Analysis+%26+Development;Data+Analysis+Student;Learning+every+day;Building+useful+things" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Software+Developer;Data+Analyst+in+progress;Problem+Solver;Learning+every+day;Building+useful+things" alt="Typing animation" />
 </div>
 
 <p align="center">
   <a href="https://github.com/ALEJO-2024"><img src="https://img.shields.io/badge/GitHub-ALEJO--2024-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:alejolondon.3001@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ALEJO-2024&label=Profile%20views&color=7C3AED&style=flat-square" alt="Profile views" />
 </p>
 
 ## About me
 
-I am a student of **Software Analysis and Development** and **Data Analysis**, passionate about creating clean, useful, and scalable solutions. I enjoy learning new technologies, solving problems, analyzing information, and turning ideas into real projects.
+I’m a developer and technology enthusiast focused on building practical, efficient, and scalable solutions. I’m currently studying both Software Analysis and Development and Data Analysis, combining logic, programming, and data-driven thinking to solve real problems.
 
-- 💻 Studying Software Analysis and Development
-- 📊 Studying Data Analysis and learning how to transform data into useful insights
-- 🔭 Currently exploring new tools and improving my technical skills
-- 🌱 Always learning about software development, automation, data, and web technologies
-- 🤝 Open to collaborations and interesting projects
-- ⚡ I like building practical solutions and learning by doing
+I enjoy turning ideas into useful products, learning continuously, and exploring tools that improve how software and data are used in everyday life.
 
-## Software Analysis and Development
+- 💻 Software Analysis and Development student
+- 📊 Data Analysis student
+- 🔭 Exploring new technologies and improving my technical skills
+- 🌱 Learning by building projects and solving real challenges
+- 🤝 Open to collaborations and meaningful opportunities
+- ⚡ Interested in software, automation, dashboards, and insight generation
 
-I am developing skills in:
+## What I’m learning
 
-- 🧩 Software analysis, design, and development
-- 🌐 Web development and responsive interfaces
-- 🏗️ Clean, maintainable, and scalable code
-- 🔌 APIs, automation, and software workflows
-- 🔧 Version control and collaborative development with Git
+### Software Development
 
-## Data Analysis
+- Web development and responsive interfaces
+- Clean, maintainable, and scalable code
+- Problem solving and application design
+- APIs, automation, and development workflows
+- Git and collaborative software engineering
 
-I am also building my knowledge in:
+### Data Analysis
 
-- 🧹 Data cleaning and preparation
-- 🔍 Exploratory data analysis
-- 📈 Statistics, metrics, and data interpretation
-- 📊 Data visualization and dashboard creation
-- 🧠 Generating insights to support decision-making
+- Data cleaning and preparation
+- Exploratory analysis and statistics
+- Data visualization with dashboards
+- KPI and metric interpretation
+- Turning raw data into business insights
 
 ## Tech Stack
 
@@ -62,12 +67,13 @@ I am also building my knowledge in:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALEJO-2024&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-## Featured projects
+## Featured Focus
 
-- 🚀 Building and improving personal projects to learn and apply new ideas
-- 🧠 Exploring tools and workflows that make development faster and cleaner
-- 📦 Interested in practical, useful, and maintainable software
-- 📊 Developing projects that combine software development with data analysis and visualization
+- 🚀 Creating useful and practical projects
+- 🧠 Combining coding with data and analysis
+- 📊 Building dashboards, reports, and insights from data
+- 🛠️ Improving my workflow with tools, automation, and best practices
+- 📦 Interested in solutions that are functional, maintainable, and valuable
 
 ## Contact
 
@@ -78,8 +84,4 @@ I am also building my knowledge in:
   <a href="mailto:alejolondon.3001@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ALEJO-2024&label=Profile%20views&color=7C3AED&style=flat-square" alt="Profile views" />
 </p>
