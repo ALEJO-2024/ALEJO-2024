@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ALEJO-2024"><img src="https://img.shields.io/badge/GitHub-ALEJO--2024-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="mailto:alejo@example.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email" /></a>
+  <a href="mailto:alejolondon.3001@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
 
 ## About me
@@ -25,8 +25,6 @@ I’m a developer passionate about creating clean, useful, and scalable solution
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
@@ -48,9 +46,9 @@ I’m a developer passionate about creating clean, useful, and scalable solution
 
 <p align="left">
   <a href="https://github.com/ALEJO-2024" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-ALEJO--2024-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-ALEJO-2024-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="mailto:alejo@example.com" target="_blank">
+  <a href="mailto:alejolondon.3001@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
