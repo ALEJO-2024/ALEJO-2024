@@ -20,7 +20,6 @@ I’m a developer and technology enthusiast focused on building practical, effic
 
 I enjoy turning ideas into useful products, learning continuously, and exploring tools that improve how software and data are used in everyday life.
 
-- 💻 Software Analysis and Development student
 - 📊 Data Analysis student
 - 🔭 Exploring new technologies and improving my technical skills
 - 🌱 Learning by building projects and solving real challenges
@@ -28,14 +27,6 @@ I enjoy turning ideas into useful products, learning continuously, and exploring
 - ⚡ Interested in software, automation, dashboards, and insight generation
 
 ## What I’m learning
-
-### Software Development
-
-- Web development and responsive interfaces
-- Clean, maintainable, and scalable code
-- Problem solving and application design
-- APIs, automation, and development workflows
-- Git and collaborative software engineering
 
 ### Data Analysis
 
@@ -56,7 +47,6 @@ I enjoy turning ideas into useful products, learning continuously, and exploring
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
