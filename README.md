@@ -16,7 +16,7 @@
 
 ## About me
 
-I’m a developer and technology enthusiast focused on building practical, efficient, and scalable solutions. I’m currently studying both Software Analysis and Development and Data Analysis, combining logic, programming, and data-driven thinking to solve real problems.
+I’m a developer and technology enthusiast focused on building practical, efficient, and scalable solutions. I’m currently studying Data Analysis, combining logic, programming, and data-driven thinking to solve real problems.
 
 I enjoy turning ideas into useful products, learning continuously, and exploring tools that improve how software and data are used in everyday life.
 
